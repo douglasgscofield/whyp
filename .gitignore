@@ -1,4 +1,6 @@
 *.RData
 *.Rhistory
 *.swp
+old
 future
+to-release
