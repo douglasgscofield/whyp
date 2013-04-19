@@ -39,13 +39,13 @@ and Pericarp Tissues to Determine Maternal Parentage of Dispersed Valley Oak
 Recruits. _Journal of Heredity_ 103:250-259.
 
 Scofield, D. G., V. L. Sork, and P. E. Smouse. 2010. Influence of acorn
-woodpecker social behaviour on transport of coast live oak (_Quercus
-agrifolia_) acorns in a southern California oak savanna. _Journal of Ecology_
+woodpecker social behaviour on transport of coast live oak (<i>Quercus
+agrifolia</i>) acorns in a southern California oak savanna. _Journal of Ecology_
 98:561-572.
 
 Scofield, D. G., V. R. Alfaro, V. L. Sork, D. Grivet, E. Martinez, J. Papp, A.
-R. Pluess et al. 2011. Foraging patterns of acorn woodpeckers (_Melanerpes
-formicivorus_) on valley oak (_Quercus lobata_ Née) in two California oak
+R. Pluess et al. 2011. Foraging patterns of acorn woodpeckers (<i>Melanerpes
+formicivorus</i>) on valley oak (<i>Quercus lobata</i> Née) in two California oak
 savanna-woodlands. _Oecologia_ 166:187-196.
 
 
