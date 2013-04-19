@@ -7,7 +7,8 @@ tissue (e.g. pericarps), and genotypes of potential parents.  Whyp handles two
 kinds of genotyping error: null alleles (common in maternal tissue), and
 mistyping (completely wrong genotype).
 
-Development of whyp to date has focused on identifying the maternal parent.
+Development of whyp to date has focused on identifying the maternal parent
+when potentially error-containing pericarp genotypes are available.
 
 The whyp API is very rough at this stage.  Genotype input for parents,
 pericarps and progeny is each in the form of an annotated `data.frame` produced by
@@ -19,6 +20,15 @@ pericarps and progeny is each in the form of an annotated `data.frame` produced 
 
 The file `example.R` contains some example code which uses these functions.  The data files themselves are not included.  `assemble.v1()` and `assemble.v2()` load data for a whyp run.  `whyp.analysis()` runs a whyp analysis on a loaded dataset, and includes alternatives for specifying an analysis and returning results. 
 
+The file `whyp.R` and the entire folder `whyp_functions/` are required.  See what I mean about a rough API? :-)
+
+* * *
+
+These statistical tools were developed in collaboration with Peter Smouse
+(Rutgers University) and Victoria Sork (UCLA) and were funded by U.S. National
+Science Foundation awards NSF-DEB-0514956 and NSF-DEB-0516529.
+
+* * *
 
 ### Publications
 
